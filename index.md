@@ -1,4 +1,4 @@
-<img>(https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)
+<img src=(https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)/>
 
 
 ## Alessa Camila Garcia Garcia
@@ -23,7 +23,7 @@ Volunteer in events
 
 •knowledge of Google forms y social media
 
-##Languages:
+## Languages:
 
 - Advanced English
 - Basic German 
