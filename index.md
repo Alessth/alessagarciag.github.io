@@ -1,4 +1,4 @@
-<img src=(https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)/>
+![This is an image](https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)
 
 
 ## Alessa Camila Garcia Garcia
