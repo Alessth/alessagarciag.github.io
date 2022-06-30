@@ -1,25 +1,26 @@
-## Welcome to GitHub Pages
+## Alessa Camila Garcia Garcia
 
-You can use the [editor on GitHub](https://github.com/Alessth/alessagarciag.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+About Me
+======
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a student of international relations in the Department of Social Sciences at Pontificia Universidad Católica del Perú (PUCP).
 
-### Markdown
+# Experience
+Moderator in Majorel (2022)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bilingual customer service in Teleperformance (2021)
 
-```markdown
-Syntax highlighted code block
+Volunteer in events
 
-# Header 1
-## Header 2
-### Header 3
+## Habilities
+•R Intermediate knowledge
+•Basic knowledge of GitHub y Excel
+•knowledge of Google forms y social media
 
-- Bulleted
-- List
+###Languages:
 
-1. Numbered
-2. List
+- Advanced English
+- Basic German 
 
 **Bold** and _Italic_ and `Code` text
 
