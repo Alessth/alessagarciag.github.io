@@ -1,3 +1,4 @@
+[Image](/alessagarciag.github.io/foto.png)
 ## Alessa Camila Garcia Garcia
 
 About Me
@@ -13,8 +14,11 @@ Bilingual customer service in Teleperformance (2021)
 Volunteer in events
 
 ## Habilities
+
 •R Intermediate knowledge
+
 •Basic knowledge of GitHub y Excel
+
 •knowledge of Google forms y social media
 
 ##Languages:
@@ -24,4 +28,4 @@ Volunteer in events
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](C:\Users\DELL\Downloads\foto)
+[Link](url)
