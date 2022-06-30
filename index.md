@@ -1,4 +1,4 @@
-[Image](https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)
+<img>(https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)
 
 
 ## Alessa Camila Garcia Garcia
