@@ -1,4 +1,6 @@
-[Image](/alessagarciag.github.io/foto.png)
+[Image](https://github.com/Alessth/alessagarciag.github.io/blob/gh-pages/foto.png)
+
+
 ## Alessa Camila Garcia Garcia
 
 About Me
